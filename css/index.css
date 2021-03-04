@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+body {
+    background-color: #1B1818;
+    color: white;
+    font-family: Roboto, sans-serif;
+}
+
+#titulo {
+    font-size: 40pt;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 30pt;
+}
+
+.caixa {
+    margin-top: 10%;
+}
+
+ul {
+    font-size: 20pt;
+}
+
+#btnCalcular {
+    color: black;
+}
